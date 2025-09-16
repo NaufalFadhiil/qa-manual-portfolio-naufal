@@ -11,9 +11,16 @@ Setiap project mencakup artefak QA utama, seperti:
 ## 📂 Daftar Project
 
 ### 1. REST API Books Testing
-Pengujian terhadap Fake REST API untuk fitur Books. Fokus pada verifikasi fungsionalitas CRUD (Create, Read, Update, Delete), penanganan error, dan konsistensi data.  
-[➡️ Lihat project](./restapi-books-testing)
+Pengujian manual pada **Fake REST API (Books)** menggunakan Postman.  
+Fokus pada verifikasi fungsi CRUD (Create, Read, Update, Delete), validasi data, serta penanganan error. Project ini merupakan bagian dari tugas **MySkill – Software Quality Assurance (QA Test Activity: Test Planning)**.  
+- [📁 Lihat project](./fake-restapi-books-testing) <br>
+
+- [🔗 Dokumen lengkap di Google Drive](https://drive.google.com/drive/folders/1jynIsETRC1gyUjRLEwxO1Vt7nBHjBSIi?usp=sharing)
 
 ---
+## 📌 Catatan
+Repository ini akan terus dikembangkan dengan menambahkan contoh project QA lainnya.
 
-💡 Repo ini ditujukan untuk menampilkan contoh dokumentasi QA yang dapat menjadi referensi dan portfolio pribadi saya.
+---
+✍️ **Author**: Naufal Fadhiil <br>
+📅 **Terakhir diperbarui**: September 2025 
