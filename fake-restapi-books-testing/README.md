@@ -1,4 +1,4 @@
-# 🎭 Fake REST API - Books Testing
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="35" /> Fake REST API - Books Testing </h1>
 
 Project ini merupakan bagian dari **tugas pelatihan MySkill - Software Quality Assurance (QA Test Activity: Test Planning)**. <br>
 Pengujian berfokus pada fitur **Books** di Fake REST API dengan metode manual testing menggunakan **Postman**. <br>
@@ -19,7 +19,7 @@ Pengujian dilakukan secara manual menggunakan **Postman**, dengan tujuan memveri
 
 ## 🗂️ Link Google Drive
 Dokumen lengkap bisa diakses di Google Drive:  
-🔗 [Link Drive Portfolio Test Planning (MySkill) - Fake REST API Books](https://drive.google.com/drive/folders/1jynIsETRC1gyUjRLEwxO1Vt7nBHjBSIi?usp=sharing) <br>
+🔗 [Link Drive - Portfolio Test Planning (MySkill) - Fake REST API Books](https://drive.google.com/drive/folders/1jynIsETRC1gyUjRLEwxO1Vt7nBHjBSIi?usp=sharing) 
 
 Isi dokumen:  
 - **Test Plan dan Test Case** – strategi, ruang lingkup, dan daftar test case.  
